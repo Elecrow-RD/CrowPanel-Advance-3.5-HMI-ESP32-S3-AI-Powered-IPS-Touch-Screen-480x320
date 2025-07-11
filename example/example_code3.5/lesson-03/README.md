@@ -1,4 +1,4 @@
-#Here is a new program to adjust the backlight (pwn version), which allows you to control the screen brightness by using PWM.
+# Here is a new program to adjust the backlight (pwn version), which allows you to control the screen brightness by using PWM.
 
 
 # **The touch screen lights up LED lights example**
