@@ -16,6 +16,7 @@
 
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
+| 1    | V1.0     | V1.0     | old |
 | 1    | V1.2     | V1.2     | latest |
 
 ### Version update points:
