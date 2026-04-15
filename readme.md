@@ -17,7 +17,7 @@
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
 | 1    | V1.0     | V1.0     | old |
-| 1    | V1.2     | V1.2     | latest |
+| 1    | V1.2     | V1.2     | old |
 | 1    | V1.3     | V1.3     | latest |
 
 ### Version update points:
@@ -26,7 +26,7 @@
 
 ## Version 1.3
 
-Updated the button components.
+Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
 
 ### 3, product information
 
@@ -63,7 +63,7 @@ Updated the button components.
 | Operating temperature                        | -20~70 °C                                                    |
 | Storage temperature                          | -30~80 °C                                                    |
 | Power Input                                  | 5V/2A, USB or UART terminal                                  |
-| Dimensions                                   | 101.4*63.3*15.8mm                                            |
+| Dimensions                                   | 101.4\*63.3*15.8mm                                            |
 
 ### 4, Use the driver module
 
