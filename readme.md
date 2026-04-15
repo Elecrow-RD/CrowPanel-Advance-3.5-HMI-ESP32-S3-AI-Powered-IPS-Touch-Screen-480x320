@@ -24,9 +24,7 @@
 
 **V1.2 upgraded**, optimized the amplifier circuit, better sound quality, and use IO21 to control mute. i2s_mic changed to two pins IO9 and IO10 control.
 
-## Version 1.3
-
-Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
+**Version 1.3**,Only the button component has been updated. All other hardware and I/O pins remain the same as in the previous version.
 
 ### 3, product information
 
