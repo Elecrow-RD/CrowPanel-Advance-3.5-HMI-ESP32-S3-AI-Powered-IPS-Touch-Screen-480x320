@@ -34,7 +34,7 @@
 | System Memory                                | 512KB SRAM、8M PSRAM                                         |
 | Memory                                       | 16M Flash，384KB ROM                                         |
 | Development Language                         | MicroPython、C/C++                                           |
-| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、Micro Python、LVGL         |
+| Development Environment                      | ESP-IDF、Arduino IDE、PlatformIO、Micro Python         |
 | **Screen**                                   |                                                              |
 | Size                                         | 3.5 inch                                                     |
 | Diver IC                                     | ILI9488                                                      |
