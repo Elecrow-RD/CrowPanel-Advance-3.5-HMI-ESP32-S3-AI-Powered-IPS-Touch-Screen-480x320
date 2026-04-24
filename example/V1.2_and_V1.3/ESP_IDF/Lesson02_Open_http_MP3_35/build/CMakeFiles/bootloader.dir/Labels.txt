@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/CMakeFiles/bootloader
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/CMakeFiles/bootloader.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/CMakeFiles/bootloader-complete.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+J:/Advance_Code_New/git_code_V13/35_V12/IDF_Code/Lesson02_Open_http_MP3_35/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
