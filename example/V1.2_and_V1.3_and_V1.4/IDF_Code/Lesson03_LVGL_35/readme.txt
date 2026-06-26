@@ -1,5 +1,0 @@
-sdkconfig
-1-Flash size - 16M
-2-CONFIG_PARTITION_TABLE_CUSTOM =y
-3-CONFIG_FREERTOS_HZ=1000
-4-Autostart Arduino setup and loop on boot  check
