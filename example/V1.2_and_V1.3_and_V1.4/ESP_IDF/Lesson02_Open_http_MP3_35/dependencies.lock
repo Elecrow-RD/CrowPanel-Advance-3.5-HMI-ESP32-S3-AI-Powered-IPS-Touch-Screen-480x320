@@ -1,0 +1,210 @@
+dependencies:
+  chmorgan/esp-libhelix-mp3:
+    component_hash: cbb76089dc2c5749f7b470e2e70aedc44c9da519e04eb9a67d4c7ec275229e53
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.1.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.0.3
+  espressif/arduino-esp32:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__arduino-esp32
+      type: local
+    version: 3.3.10
+  espressif/cbor:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__cbor
+      type: local
+    version: 0.6.1~4
+  espressif/cjson:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__cjson
+      type: local
+    version: 1.7.19~2
+  espressif/dl_fft:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__dl_fft
+      type: local
+    version: 0.4.0
+  espressif/esp-dsp:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-dsp
+      type: local
+    version: 1.8.0
+  espressif/esp-modbus:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-modbus
+      type: local
+    version: 2.1.2
+  espressif/esp-serial-flasher:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-serial-flasher
+      type: local
+    version: 0.0.11
+  espressif/esp-sr:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-sr
+      type: local
+    version: 2.4.6
+  espressif/esp-zboss-lib:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-zboss-lib
+      type: local
+    version: 1.6.4
+  espressif/esp-zigbee-lib:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp-zigbee-lib
+      type: local
+    version: 1.6.8
+  espressif/esp_diag_data_store:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_diag_data_store
+      type: local
+    version: 1.0.2
+  espressif/esp_diagnostics:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_diagnostics
+      type: local
+    version: 1.2.1
+  espressif/esp_insights:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_insights
+      type: local
+    version: 1.2.2
+  espressif/esp_modem:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_modem
+      type: local
+    version: 2.0.2
+  espressif/esp_rainmaker:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_rainmaker
+      type: local
+    version: 1.5.2
+  espressif/esp_rcp_update:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_rcp_update
+      type: local
+    version: 1.2.0
+  espressif/esp_schedule:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_schedule
+      type: local
+    version: 1.2.0
+  espressif/esp_secure_cert_mgr:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__esp_secure_cert_mgr
+      type: local
+    version: 2.9.2
+  espressif/jsmn:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__jsmn
+      type: local
+    version: 1.1.0
+  espressif/json_generator:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__json_generator
+      type: local
+    version: 1.1.2
+  espressif/json_parser:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__json_parser
+      type: local
+    version: 1.0.3
+  espressif/libsodium:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__libsodium
+      type: local
+    version: 1.0.22
+  espressif/mdns:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__mdns
+      type: local
+    version: 1.11.1
+  espressif/network_provisioning:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__network_provisioning
+      type: local
+    version: 1.0.2
+  espressif/qrcode:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__qrcode
+      type: local
+    version: 0.1.0~2
+  espressif/rmaker_common:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\espressif__rmaker_common
+      type: local
+    version: 1.4.6
+  idf:
+    source:
+      type: idf
+    version: 5.5.4
+  joltwallet/littlefs:
+    dependencies: []
+    source:
+      path: E:\3.5_ESP_IDF\Lesson02_Open_http_MP3_35\components\joltwallet__littlefs
+      type: local
+    version: 1.20.4
+direct_dependencies:
+- chmorgan/esp-libhelix-mp3
+- espressif/arduino-esp32
+- espressif/cbor
+- espressif/cjson
+- espressif/dl_fft
+- espressif/esp-dsp
+- espressif/esp-modbus
+- espressif/esp-serial-flasher
+- espressif/esp-sr
+- espressif/esp-zboss-lib
+- espressif/esp-zigbee-lib
+- espressif/esp_diag_data_store
+- espressif/esp_diagnostics
+- espressif/esp_insights
+- espressif/esp_modem
+- espressif/esp_rainmaker
+- espressif/esp_rcp_update
+- espressif/esp_schedule
+- espressif/esp_secure_cert_mgr
+- espressif/jsmn
+- espressif/json_generator
+- espressif/json_parser
+- espressif/libsodium
+- espressif/mdns
+- espressif/network_provisioning
+- espressif/qrcode
+- espressif/rmaker_common
+- idf
+- joltwallet/littlefs
+manifest_hash: b7fdc27fc95a3ab1aa95cc78b6de7310a9d03923d10aaf04fd6b5dbb997d825a
+target: esp32s3
+version: 2.0.0
